@@ -1,0 +1,2 @@
+model_checkpoint_path: "generator-821"
+all_model_checkpoint_paths: "generator-821"
