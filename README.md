@@ -1,6 +1,6 @@
 # CartoonGAN-TensorFlow2
 ## Abstract
-This project is for software engineering course in Graduate Institute of Information Management, NTPU.
+This project is for software engineering course in Graduate Institute of Information Management, NTPU, by Jerry Chung and Wesley Chiu.
 
 The original project were created by LeeMeng.(https://github.com/mnicnc404/CartoonGan-tensorflow)
 
