@@ -1,4 +1,8 @@
 # CartoonGAN-TensorFlow2
+This project is for software engineering course in Graduate Institute of Information Management, NTPU.
+We used the Marvel movie's trailer and Marvel comic to be our training dataset, and adjust the epoch parameters to 800.
+
+
 Generate your own cartoon-style images with [CartoonGAN (CVPR 2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf), powered by [TensorFlow 2.0 Alpha](https://www.tensorflow.org/alpha).
 
 Check our blog posts with project overview, online demo and gallery of generated anime: 
