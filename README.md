@@ -6,7 +6,7 @@ The original project were created by LeeMeng.(https://github.com/mnicnc404/Carto
 
 We used the Marvel movie's trailer and Marvel comic to be our training dataset, and adjust the epoch parameters to 800.
 
-
+The final model is in models folder, and the ouput images were in 
 ## LeeMeng works
 Generate your own cartoon-style images with [CartoonGAN (CVPR 2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf), powered by [TensorFlow 2.0 Alpha](https://www.tensorflow.org/alpha).
 
