@@ -8,7 +8,7 @@ We used the Marvel movie's trailer and Marvel comic to be our training dataset, 
 
 The final model is in models folder, and the ouput images were in /testimage/output.
 
-![marevel](testimage/output/)
+![marvel](testimage/output/test01.png)
 
 
 ## LeeMeng works
